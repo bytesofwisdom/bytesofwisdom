@@ -58,7 +58,7 @@
 <div align="center">
   <img src="https://github-readme-stats-brown-pi-11.vercel.app/api?username=bytesofwisdom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-brown-pi-11.vercel.app/api/top-langs?username=bytesofwisdom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesofwisdom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
 </div>
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
