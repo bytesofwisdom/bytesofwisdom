@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" width="25" height="25" /></h2>
+<h2 align="center">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" width="25" height="25" /></h2>
 
 ###
 
@@ -59,6 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bytesofwisdom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytesofwisdom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesofwisdom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bytesofwisdom.bytesofwisdom&"  />
 </div>
 
 
