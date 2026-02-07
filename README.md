@@ -61,11 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesofwisdom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bytesofwisdom.bytesofwisdom&"  />
-</div>
-
-
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 ###
