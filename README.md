@@ -8,11 +8,7 @@
 
 ###
 
-<p align="left">I’m programmer from India who enjoys applying code and AI to understand and tackle economic challenges. I love creating software, experimenting with IoT devices (Arduino), and exploring innovative tech products. I’m deeply fascinated by technology and constantly eager to learn new things. When I step away from coding, I like reading or watching sci-fi to inspire new ideas.</p>
-
-###
-
-<p align="left">______________________________________________________________________________</p>
+<h5 align="left">I’m programmer from India who enjoys applying code and AI to understand and tackle economic challenges. I love creating software, experimenting with IoT devices (Arduino), and exploring innovative tech products. I’m deeply fascinated by technology and constantly eager to learn new things. When I step away from coding, I like reading or watching sci-fi to inspire new ideas.</h5>
 
 ###
 
@@ -37,7 +33,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🔭 I’m currently working on App<br><br>🌱 I’m currently learning DevOps<br><br>💬 Ask me about Android , Economics<br><br>📫 How to reach me - saurabhpriyadarshi06@gmail.com<br><br>⚡ Fun fact I am Funny</p>
 
 ###
 
@@ -79,11 +75,16 @@
 
 ###
 
+<h2 align="left">GitHub Stats</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytesofwisdom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bytesofwisdom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesofwisdom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
