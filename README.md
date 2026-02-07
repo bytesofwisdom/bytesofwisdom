@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">I’m programmer from India who enjoys applying code and AI to understand and tackle economic challenges. I love creating software, experimenting with IoT devices (Arduino), and exploring innovative tech products. I’m deeply fascinated by technology and constantly eager to learn new things. When I step away from coding, I like reading or watching sci-fi to inspire new ideas.</h5>
+<h4 align="left">I’m programmer from India who enjoys applying code and AI to understand and tackle economic challenges. I love creating software, experimenting with IoT devices (Arduino), and exploring innovative tech products. I’m deeply fascinated by technology and constantly eager to learn new things. When I step away from coding, I like reading or watching sci-fi to inspire new ideas.</h4>
 
 ###
 
