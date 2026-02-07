@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="center">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" width="25" height="25" /></h2>
+<h2 align="right">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" width="25" height="25" /></h2>
 
 ###
 
