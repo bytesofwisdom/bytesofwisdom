@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi! It's Saurabh Priyadarshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
+<h1 align="center">Hi! It's Saurabh Priyadarshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
 ###
 
